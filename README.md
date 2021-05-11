@@ -62,8 +62,12 @@ The task given to me was divided into three parts:
 + Part III: Migrate the provided data
 
 
+The first step was to identify errors and inefficiencies in the existing database. Then it was my task to design a new database structure according to the following criteria and to migrate the existing data accordingly.
+
 ```
-1. Guideline #1: here is a list of features and specifications that Udiddit needs in order to support its website and administrative interface:
+Here is a list of features and specifications that Udiddit 
+needs in order to support its website and administrative interface:
+
         a. Allow new users to register:
                 i. Each username has to be unique
                 ii. Usernames can be composed of at most 25 characters
